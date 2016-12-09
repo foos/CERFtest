@@ -1,4 +1,4 @@
-<projects publisher="CERF" published="2016-12-02T00:00:00Z" allocationyear="0">
+<projects publisher="CERF" published="2016-12-03T00:00:00Z" allocationyear="0">
     <project>
         <project_code>99992:16-UF-CEF-104:CHD-16/H/89309/124</project_code>
         <emergency id="0">Chad 2016</emergency>
@@ -51,6 +51,6 @@
         <allocation_status/>
         <description>CERF test changed from no project to project</description>
         <created_date>2016-08-08T00:00:00</created_date>
-        <lastupdated_date>2016-10-06T00:00:00</lastupdated_date>
+        <lastupdated_date>2016-12-02T00:00:00</lastupdated_date>
     </project>
 </projects>
