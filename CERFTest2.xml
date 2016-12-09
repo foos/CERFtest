@@ -1,0 +1,56 @@
+<projects publisher="CERF" published="2016-12-02T00:00:00Z" allocationyear="0">
+    <project>
+        <project_code>99992:16-UF-CEF-104:CHD-16/H/89309/124</project_code>
+        <emergency id="0">Chad 2016</emergency>
+        <country>Chad</country>
+        <donor>CERF</donor>
+        <recipient>UNICEF</recipient>
+        <cap_project_code>CHD-16/H/89309/124</cap_project_code>
+        <allocation_amount>21</allocation_amount>
+        <date type="Approval">2016-09-17T00:00:00</date>
+        <date type="Disbursement">2016-09-20T00:00:00</date>
+        <date type="Revision"/>
+        <sector>Health</sector>
+        <allocation_type type="CERF">UF</allocation_type>
+        <allocation_status>Disbursed</allocation_status>
+        <description>Update - changed amount</description>
+        <created_date>2016-08-23T00:00:00</created_date>
+        <lastupdated_date>2016-12-02T00:00:00</lastupdated_date>
+    </project>
+    <project>
+        <project_code>99994:16-RR-CEF-085:Health</project_code>
+        <emergency id="0"/>
+        <country>Niger</country>
+        <donor>CERF</donor>
+        <recipient>United Nations Children’s Fund</recipient>
+        <cap_project_code/>
+        <allocation_amount>24</allocation_amount>
+        <date type="Approval">2016-08-18T00:00:00</date>
+        <date type="Disbursement">2016-08-23T00:00:00</date>
+        <date type="Revision"/>
+        <sector>Health</sector>
+        <allocation_type type="CERF">RR</allocation_type>
+        <allocation_status/>
+        <description>update changed disbursement date and amount</description>
+        <created_date>2016-08-08T00:00:00</created_date>
+        <lastupdated_date>2016-12-02T00:00:00</lastupdated_date>
+    </project>
+    <project>
+        <project_code>99995:16-RR-CEF-086:NGA-16/P-HR-RL/95847/R/124</project_code>
+        <emergency id="0"/>
+        <country>Niger</country>
+        <donor>CERF</donor>
+        <recipient>United Nations Children’s Fund</recipient>
+        <cap_project_code/>
+        <allocation_amount>15</allocation_amount>
+        <date type="Approval">2016-08-18T00:00:00</date>
+        <date type="Disbursement"></date>
+        <date type="Revision"/>
+        <sector>Health</sector>
+        <allocation_type type="CERF">RR</allocation_type>
+        <allocation_status/>
+        <description>CERF test changed from no project to project</description>
+        <created_date>2016-08-08T00:00:00</created_date>
+        <lastupdated_date>2016-10-06T00:00:00</lastupdated_date>
+    </project>
+</projects>
