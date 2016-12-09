@@ -1,4 +1,4 @@
-<projects publisher="CERF" published="2016-12-01T00:00:00Z" allocationyear="0">
+<projects publisher="CERF" published="2016-12-02T00:00:00Z" allocationyear="0">
     <project>
         <project_code>99991:16-RR-HCR-033:NIG-16/MS/88619/120</project_code>
         <emergency id="0">Niger 2016</emergency>
@@ -15,7 +15,7 @@
         <allocation_status></allocation_status>
         <description>CERF test UF, to appeal and project, approval date only</description>
         <created_date>2016-08-08T00:00:00</created_date>
-        <lastupdated_date>2016-10-06T00:00:00</lastupdated_date>
+        <lastupdated_date>2016-10-07T00:00:00</lastupdated_date>
     </project>
     <project>
         <project_code>99992:16-UF-CEF-104:CHD-16/H/89309/124</project_code>
@@ -33,7 +33,7 @@
         <allocation_status>Disbursed</allocation_status>
         <description>CERF test UF, to appeal and project, approval and Disbursement date</description>
         <created_date>2016-08-23T00:00:00</created_date>
-        <lastupdated_date>2016-10-05T00:00:00</lastupdated_date>
+        <lastupdated_date>2016-10-07T00:00:00</lastupdated_date>
     </project>
     <project>
         <project_code>99993:16-RR-CEF-086:Water and Sanitation</project_code>
@@ -51,7 +51,7 @@
         <allocation_status/>
         <description>CERF test new RR, no project, Approval and Disbursement date</description>
         <created_date>2016-08-08T00:00:00</created_date>
-        <lastupdated_date>2016-10-06T00:00:00</lastupdated_date>
+        <lastupdated_date>2016-10-07T00:00:00</lastupdated_date>
     </project>
     <project>
         <project_code>99994:16-RR-CEF-085:Health</project_code>
@@ -69,7 +69,7 @@
         <allocation_status/>
         <description>CERF test new RR, no project, Approval date only</description>
         <created_date>2016-08-08T00:00:00</created_date>
-        <lastupdated_date>2016-10-06T00:00:00</lastupdated_date>
+        <lastupdated_date>2016-10-07T00:00:00</lastupdated_date>
     </project>
     <project>
         <project_code>99995:16-RR-CEF-086:Health</project_code>
@@ -87,7 +87,7 @@
         <allocation_status/>
         <description>CERF test new RR, no project first, Approval date only</description>
         <created_date>2016-08-08T00:00:00</created_date>
-        <lastupdated_date>2016-10-06T00:00:00</lastupdated_date>
+        <lastupdated_date>2016-10-07T00:00:00</lastupdated_date>
     </project>
     <project>
         <project_code>99996:16-UF-CEF-104:CHD-16/H/893090/</project_code>
@@ -95,7 +95,7 @@
         <country>Chad</country>
         <donor>CERF</donor>
         <recipient>UNICEF</recipient>
-        <cap_project_code>CHD-16/H/89309/124</cap_project_code>
+        <cap_project_code>CHD-16/H/893090</cap_project_code>
         <allocation_amount>16</allocation_amount>
         <date type="Approval">2016-09-17T00:00:00</date>
         <date type="Disbursement">2016-09-23T00:00:00</date>
@@ -105,6 +105,42 @@
         <allocation_status>Disbursed</allocation_status>
         <description>CERF test UF, to appeal and project, but incorrect project code</description>
         <created_date>2016-08-23T00:00:00</created_date>
-        <lastupdated_date>2016-10-05T00:00:00</lastupdated_date>
+        <lastupdated_date>2016-10-07T00:00:00</lastupdated_date>
+    </project>
+    <project>
+        <project_code>99997:16-UF-CEF-104:CHD-16/H/893090/</project_code>
+        <emergency id="0">Chad 2016</emergency>
+        <country>Chad</country>
+        <donor>CERF</donor>
+        <recipient>UNICEF</recipient>
+        <cap_project_code>CHD-16/H/893090</cap_project_code>
+        <allocation_amount>17</allocation_amount>
+        <date type="Approval">2016-09-17T00:00:00</date>
+        <date type="Disbursement">2016-09-23T00:00:00</date>
+        <date type="Revision"/>
+        <sector>Health</sector>
+        <allocation_type type="CERF">UF</allocation_type>
+        <allocation_status>Disbursed</allocation_status>
+        <description>CERF test UF, to appeal and project, but incorrect project code 2</description>
+        <created_date>2016-08-23T00:00:00</created_date>
+        <lastupdated_date>2016-10-07T00:00:00</lastupdated_date>
+    </project>
+     <project>
+        <project_code>99998:16-RR-CEF-086:Water and Sanitation</project_code>
+        <emergency id="0"/>
+        <country>Zambia</country>
+        <donor>CERF</donor>
+        <recipient>United Nations Children’s Fund</recipient>
+        <cap_project_code/>
+        <allocation_amount>18</allocation_amount>
+        <date type="Approval">2016-08-18T00:00:00</date>
+        <date type="Disbursement">2016-08-23T00:00:00</date>
+        <date type="Revision"/>
+        <sector>Water and Sanitation</sector>
+        <allocation_type type="CERF">RR</allocation_type>
+        <allocation_status/>
+        <description>CERF test new RR, emergency</description>
+        <created_date>2016-08-08T00:00:00</created_date>
+        <lastupdated_date>2016-10-07T00:00:00</lastupdated_date>
     </project>
 </projects>
